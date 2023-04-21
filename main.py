@@ -3,7 +3,7 @@ from telebot import types
 
 import sqlite3
 
-botKey = "6169846454:AAH8kRRw4IFHwEi4nu7Q-yg8s0pePgfpS4s"
+botKey = ""
 
 RU_8CLASS_BARHNEW = "https://reshak.ru/reshebniki/russkijazik/8/barh_new/images1/"
 AL_7CLASS_MAKARICHEV = "https://reshak.ru/reshebniki/algebra/7/makarichev/images/"
